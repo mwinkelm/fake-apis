@@ -1,14 +1,13 @@
 {
-  products: [
-    {
-      id: 1,
-      name: 'Samsung TV 40"',
-      price: 99.90
-    },
-    {
-      id: 2,
-      name: 'Loewe TV 48"',
-      price: 149.00
-    }
-  ]
+	"products": [{
+			"id": 1,
+			"name": "Samsung TV 40\"",
+			"price": 99.90
+		},
+		{
+			"id": 2,
+			"name": "Loewe TV 48\"",
+			"price": 149.00
+		}
+	]
 }
